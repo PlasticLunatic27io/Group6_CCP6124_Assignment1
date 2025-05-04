@@ -193,7 +193,7 @@ Phone: 018-123 4567
 1. Create a folder in the following format:
 
 ```
-TUTORIALSECTION_ASSIGNMENT_fULLNAME
+TUTORIALSECTION_ASSIGNMENT_FULLNAME
 ```
 
 For example, if your name is Frank Carrano, you come from TC201 tutorial section and you are submitting Assignment Milestone 1, then your folder name should be **"TC201_M1_FRANK_CARRANO"** without the double quotes.
