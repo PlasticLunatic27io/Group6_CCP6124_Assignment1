@@ -38,7 +38,7 @@ A robot can take a 'move' action to one of its 8 neighbouring locations:
 
 | **Up Left** | **Up** | **Up Right** |
 | :-----: | :-----: | :-----: |
-| **Left** | `**ROBOT**` | **Right** |
+| **Left** | **ROBOT** | **Right** |
 | **Down Left** | **Down** | **Down Right** |
 
 ### Number 5
