@@ -151,7 +151,7 @@ The above requirements are the basic requirements of this assignment. Add three 
 
 1. In each turn of a simulation, display the battlefield, the actions and the results of the actions of each robot in that turn. In addition, save the same information into a text file.
 
-2. Classes and functions in the standard C++ libraries can be used. Refer to the **Reference** section in [www.cplusplus.com](www.cplusplus.com) to find a list of standard C++ libraries.
+2. Classes and functions in the standard C++ libraries can be used. Refer to the **Reference** section in [www.cplusplus.com](http://www.cplusplus.com/) to find a list of standard C++ libraries.
 
 3. Your solution must employ the **Object-Oriented Programming** concepts you have learnt such as **INHERITANCE**, **POLYMORPHISM**, **OPERATOR OVERLOADING** and any number of C++ object-oriented features.
 
